@@ -11,13 +11,13 @@ $LANG = array(
 ################################################################################
 # Header HTML infos for search engine and title in tab:
 'PEPPERCARROT_VEGETABLE'    =>  '', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'Página oficial de Pepper&amp;Carrot, un webcomic gratuito/libre de código abierto acerca de Pepper, una joven bruja y su gato, Carrot. Ellos viven en un universo de fantasía con pociones, magia y criaturas.',
-'SUBTITLE'                  =>  'Webcomic Abierto por David Revoy',
+'Website_DESCRIPTION'        =>  'Página oficial de Pepper&amp;Carrot, un webcómic gratuito/libre de código abierto acerca de Pepper, una joven bruja y su gato, Carrot. Ellos viven en un universo de fantasía con pociones, magia y criaturas.',
+'SUBTITLE'                  =>  'Webcómic libre por David Revoy',
 
 ################################################################################
 # Top menu website:
 'HOMEPAGE'      =>  'Página principal',
-'WEBCOMICS'     =>  'Webcomics',
+'WEBCOMICS'     =>  'Webcómics',
 'BLOG'          =>  'Blog',
 'PHILOSOPHY'    =>  'Filosofía',
 'CONTRIBUTE'    =>  'Contribuir',
@@ -33,7 +33,7 @@ $LANG = array(
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    Un webcomic gratuito, libre y de codigo abierto<br/>
+    Un webcómic gratuito, libre y de código abierto<br/>
     apoyado directamente por sus patrocinadores<br/>
     ¡para cambiar la industria del cómic!<br/>
 ',
@@ -41,13 +41,13 @@ $LANG = array(
 'HOMEPAGE_MOREINFO_BUTTON'  =>  'Más información',
 'HOMEPAGE_PATREON_BUTTON'   =>  'Conviértete en un patrocinador de Pepper&amp;Carrot en Patreon',
 'HOMEPAGE_LAST_EPISODE'     =>  'Último episodio:',
-'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciónes:',
+'HOMEPAGE_NEWS_UPDATE'      =>  'Noticias y Actualizaciones:',
 'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Más mensajes',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 
 ################################################################################
 # Page: Webcomics
-'WEBCOMIC_EPISODE'		    =>  'Episodios del webcomic',
+'WEBCOMIC_EPISODE'		    =>  'Episodios del webcómic',
 'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
     <p>Los Making-of y <a href="http://www.davidrevoy.com/categorie5/tutorials"> los tutoriales de arte</a>  son bonificaciones especiales auspiciadas por mis <a href="https://www.patreon.com/davidrevoy">Patrocinadores &#39;heroes&#39;</a></p>
@@ -59,43 +59,43 @@ $LANG = array(
 # Page: Blog
 # when content are not English (no need to warn user the content is english only here):
 #'LIMITATIONS' 	=> '<i class="fa fa-info-circle"></i> Content available in english only ',
-'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> El contenido únicamente está disponible en ingles',
+'LIMITATIONS' 		=> '<i class="fa fa-info-circle"></i> El contenido únicamente está disponible en inglés',
 
 ################################################################################
 # Page: Philosophy
 'PHILOSOPHY_CONTENT'    =>  '
  <h2>Auspiciado por patrocinadores</h2>
     
-    <p>El proyecto Pepper&amp;Carrot únicamente es financiado por sus patrocinadores, de todo el mundo.<br/>
+    <p>El proyecto Pepper&amp;Carrot únicamente es financiado por sus patrocinadores de todo el mundo.<br/>
     Cada patrocinador envía un poco de dinero por cada nuevo episodio publicado y recibe créditos al final del nuevo episodio.<br/>
-    Gracias a este Sistema, Pepper&amp;Carrot puede ser independiente y nunca usar publicidad o cualquier contaminación de marketing.</p>
+    Gracias a este sistema, Pepper&amp;Carrot puede ser independiente y nunca usar publicidad o cualquier contaminación de marketing.</p>
     
     <div class="philobutton">
-        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
-            Por sólo 1€ por cada nuevo episodio, conviértete hoy en un patrocinador en Patreon
+        <a href="https://www.patreon.com/davidrevoy" title="Por solo 1€ por cada nuevo episodio, conviértete en patrocinador">
+            Por solo 1€ por cada nuevo episodio, conviértete hoy en patrocinador en Patreon
         </a>
     </div>
-        <a href="https://www.patreon.com/davidrevoy" title="Por sólo 1€ por cada nuevo episodio, conviértete en patrocinador">
+        <a href="https://www.patreon.com/davidrevoy" title="Por solo 1€ por cada nuevo episodio, conviértete en patrocinador">
             <img alt="ilustración representando el patrocinio" src="data/images/static/2015-02-09_philosophy_01-support.jpg">
         </a>
 
     <h2>100% gratis, por siempre, sin Paywall</h2>
     
-    <p>Cada contenido que produzco sobre Pepper&amp;Carrot en este sitio web son gratuitos y están disponibles para todos.<br/>
-    Respeto a todos ustedes por igual: con o sin dinero. Todas las bonificaciones especiales que hago para mis patrocinadores también se publican aquí.<br/>
+    <p>Todos los contenidos que produzco sobre Pepper&amp;Carrot en este sitio web son gratuitos y están disponibles para todos.<br/>
+    Se respeta a todos por igual: con o sin dinero. Todas las bonificaciones especiales que se hacen para patrocinadores también se publican aquí.<br/>
     Pepper&amp;Carrot nunca te pedirá pagar algo u obtener una suscripción para acceder a un nuevo contenido.</p>
     
         <img alt="illustration representing paywall" src="data/images/static/2015-02-09_philosophy_03-paywall.jpg">
 
     <h2>De código abierto y permisivo</h2>
     
-    <p>Quiero darle a la gente el derecho a compartir, utilizar, desarrollar e incluso ganar dinero con el trabajo que he creado.<br/>
-    Todas las páginas, ilustraciones y contenido se hicieron con Software Gratuito/Libre de código abierto en GNU/Linux, y todas las fuentes están en este sitio web, en el menú &#39;Fuentes&#39;.<br/>
-    Se anima el uso comercial, traducciones, fan-arts, impresiones, películas, videojuegos, distribuciones y re-publicaciones.<br/>
-    Solo tienes que atribuir la obra a los autores (artistas, correctores, traductores o cualquier persona implicado en la obra que quieras utilizar), proporcionar un enlace a la licencia e indicar si se han realizado cambios en la obra. Puedes hacer esto de cualquier manera razonable, pero no de forma que sugiera que los autores te dan su respaldo.</p>
+    <p>Quiero darle a la gente el derecho a compartir, utilizar, desarrollar e incluso ganar dinero con el trabajo creado.<br/>
+    Todas las páginas, ilustraciones y contenido se hicieron con software libre y de código abierto en GNU/Linux, y todas las fuentes están en este sitio web, en el menú &#39;Fuentes&#39;.<br/>
+    Se anima al uso comercial, traducciones, fan-arts, impresiones, películas, videojuegos, distribuciones y re-publicaciones.<br/>
+    Solo tienes que atribuir la obra a los autores (artistas, correctores, traductores o cualquier persona implicada en la obra que quieras utilizar), proporcionar un enlace a la licencia e indicar si se han realizado cambios en la obra. Puedes hacer esto de cualquier manera razonable, pero no de forma que sugiera que los autores te dan su respaldo.</p>
     
     <div class="philobutton">
-        <a href="https://creativecommons.org/licenses/by/4.0/deed.es" title="For more information, read the Creative Commons Attribution 4.0">
+        <a href="https://creativecommons.org/licenses/by/4.0/deed.es" title="Más información en Creative Commons Attribution 4.0">
             Licencia: Creative Commons Attribution 4.0
         </a>
     </div>
@@ -104,22 +104,22 @@ $LANG = array(
 
     <h2>Entretenimiento de calidad para todos, en cualquier lugar</h2>
     
-    <p>Pepper&amp;Carrot es un webcomic  de comedia/humor adecuado para todo el mundo, todas las edades.<br/>
-    Sin contenido para adultos, sin violencia. Gratuito y de código abierto, Pepper&amp;Carrot es un orgulloso ejemplo de lo genial que podría ser la cultura libre.<br/>
-    Me estoy centrando mucho en la calidad, porque lo libre y de código abierto no significa malo o aficionado. Au contraire.</p>
+    <p>Pepper&amp;Carrot es un webcómic  de humor adecuado para todo todas las edades.<br/>
+    Sin contenido para adultos ni violencia. Gratuito y de código abierto, Pepper&amp;Carrot es un orgulloso ejemplo de lo genial que podría ser la cultura libre.<br/>
+    El acento estará puesto en la calidad, porque lo libre y de código abierto no significa malo o aficionado. Al contrario.</p>
 
         <img alt="" src="data/images/static/2015-02-09_philosophy_05-everyone.jpg">
 
     <h2>¡Cambiemos la industria del cómic!</h2>
     
-    <p>Con menos intermediarios entre el público y el artista, pagas menos y me beneficio más. Tú me apoyas directamente.<br/>
-    Ningún editor/distribuidor/marketing/moda me pueden obligar a cambiar Pepper&amp;Carrot para adaptarse a su visión de &#39;el mercado&#39;.<br/>
-    &nbsp;.&nbsp;.&nbsp;.&nbsp;¿Por qué no un solo éxito no podría hacer de &#39;bola de nieve&#39; para toda una industria en crisis?¡Vamos a intentarlo!</p>
+    <p>Con menos intermediarios entre el público y el artista, pagas menos y se obtienen más beneficios. Tú me apoyas directamente.<br/>
+    Ningún editor/distribuidor/comercial me podrá obligar a cambiar Pepper&amp;Carrot para adaptarse a su visión de &#39;mercado&#39;.<br/>
+    &nbsp;.&nbsp;.&nbsp;.&nbsp;¿Podrá un solo éxito inspirar cambios para toda una industria en crisis?¡Vamos a intentarlo!</p>
     
         <img alt="illustration: comic book industry VS patreon support" src="data/images/static/2015-02-09_philosophy_06-industry-change.jpg">
     
     <div class="philobutton">
-        <a class="h4" href="https://www.patreon.com/davidrevoy" title="For only 1€ per new episode, become a patreon of Pepper&amp;Carrot">
+        <a class="h4" href="https://www.patreon.com/davidrevoy" title="Por solo 1€ cada nuevo episodio, hazte mecenas de Pepper&amp;Carrot">
             Ayúdame a impulsar Pepper&amp;Carrot hoy
         </a> 
     </div>
@@ -134,7 +134,7 @@ $LANG = array(
 'CONTRIBUTE_TITLE'		=> 'Contribuir',
 'CONTRIBUTE_TOP'		=> '
     <p> Gracias al <a href="?static6/sources" title="Sources page">código abierto</a> y la <a href="http://creativecommons.org/licenses/by/4.0/">
-    licencia de creative commons</a> tu puedes contribuir a Pepper&amp;Carrot de muchas formas:</p>
+    licencia de creative commons</a> tú puedes contribuir a Pepper&amp;Carrot de muchas formas:</p>
 ',
 'CONTRIBUTE_DONATION'		=> '            
     <h2>Patrocinio, donaciones</h2> 
